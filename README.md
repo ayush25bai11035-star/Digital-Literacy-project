@@ -1,10 +1,26 @@
-## Task 3 – Platforms Used
+# Digital Literacy Project
 
-### Coding Practice
-I used HackerRank and completed a beginner challenge called "Solve Me First".
+## Name: Ayush Sharma
+## Branch: CSE AIML
+## College: VIT Bhopal
 
-### Google Form
-I created a Digital Literacy Awareness Quiz:
-https://docs.google.com/forms/d/1QzsRqP37Zot0V87j7OAOzfy3CdUFQsjwosezlR8SnZk/edit
+## 📌 Project Overview
+This project is based on digital literacy and includes five different tasks. It helps in understanding online platforms, communication skills, and cyber safety.
 
-Screenshots are available in the task-3-platforms folder.
+## 📂 Tasks Included
+- Task 1: Presentation
+- Task 2: Portfolio
+- Task 3: Platforms
+- Task 4: Email Etiquette
+- Task 5: Cybercrime Awareness
+
+## 📁 Folder Structure
+- report/ → Contains Project_Report.pdf
+- task-1-presentation/
+- task-2-portfolio/
+- task-3-platforms/
+- task-4-email-etiquette/
+- task-5-cybercrime/
+
+## 🔒 Conclusion
+This project improved my knowledge about digital tools, online safety, and professional communication.
